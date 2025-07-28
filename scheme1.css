@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+    padding: auto;
+    margin: auto;
+    background: rgb(48, 46, 46);
+}
+#scheme{
+    color: blueviolet;
+}
