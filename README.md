@@ -1,4 +1,4 @@
-🇮🇳 Government Scheme Finder Portal
+                           SCHEME VERSE
 
 A web-based platform that provides complete information about various Government Schemes for Farmers, Students, and Citizens.
 
