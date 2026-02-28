@@ -108,4 +108,4 @@ All scheme details are based on publicly available government information.
 👨‍💻 Author
 
 Niraj Mandal
-B.Tech CSE Student | Web Developer
+B.Tech IT
